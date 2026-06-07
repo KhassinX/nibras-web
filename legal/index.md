@@ -25,7 +25,7 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 Nibras presents public-domain scripture with transparent provenance:
 
 - **Arabic Qur'an text** — provided by **[Tanzil.net](https://tanzil.net)** under **CC BY 3.0**.
-- **Spanish translation of the meaning** — by **Sheikh Muhammad Isa García**, via **QuranEnc.com / IslamHouse** (Noble Qur'an Encyclopedia, King Fahd Glorious Qur'an Printing Complex), used under QuranEnc's published Terms and Policies.
+- **Spanish translation of the meaning** — by **Sheikh Muhammad Isa García**, via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Qur'an Encyclopedia, King Fahd Glorious Qur'an Printing Complex), used under QuranEnc's published Terms and Policies.
 
 A translation of the meaning is always labelled as such; it is never presented as the Qur'an.
 

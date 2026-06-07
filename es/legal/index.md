@@ -23,7 +23,7 @@ Documentos legales públicos de **Nibras**.
 Nibras presenta escritura de dominio público con procedencia transparente:
 
 - **Texto del Corán en árabe** — provisto por **[Tanzil.net](https://tanzil.net)** bajo **CC BY 3.0**.
-- **Traducción del significado al español** — de **Sheikh Muhammad Isa García**, vía **QuranEnc.com / IslamHouse** (Noble Quran Encyclopedia, King Fahd Glorious Qur'an Printing Complex), usada conforme a los Terms and Policies de QuranEnc.
+- **Traducción del significado al español** — de **Sheikh Muhammad Isa García**, vía **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Quran Encyclopedia, King Fahd Glorious Qur'an Printing Complex), usada conforme a los Terms and Policies de QuranEnc.
 
 Una traducción del significado siempre se rotula como tal; nunca se presenta como el Corán.
 
