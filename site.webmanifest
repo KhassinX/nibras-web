@@ -1,0 +1,16 @@
+{
+  "name": "Nibras — Quran",
+  "short_name": "Nibras",
+  "description": "A reverent reader of the Qur'an in Arabic, with translations of the meaning, and an on-device, non-generative concordance.",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C5145",
+  "theme_color": "#0C5145",
+  "icons": [
+    { "src": "/assets/favicons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/favicons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/favicons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/assets/favicons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

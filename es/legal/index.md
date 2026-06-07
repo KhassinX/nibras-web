@@ -1,0 +1,35 @@
+---
+layout: prose
+title: Nibras — Legal
+permalink: /es/legal/
+lang: es
+canonical_en: /legal/
+canonical_es: /es/legal/
+updated: 2026-06-05
+---
+
+# Legal
+
+Documentos legales públicos de **Nibras**.
+
+- **[Política de Privacidad](/es/legal/privacy/)** — qué datos maneja Nibras y cómo (spoiler: ninguno nuestro)
+- **[Términos de uso](/es/legal/terms/)** — términos para usar la app
+- **[Seguridad y reportes responsables](/es/security/)** — cómo reportar vulnerabilidades
+
+---
+
+## Atribución
+
+Nibras presenta escritura de dominio público con procedencia transparente:
+
+- **Texto del Corán en árabe** — provisto por **[Tanzil.net](https://tanzil.net)** bajo **CC BY 3.0**.
+- **Traducción del significado al español** — de **Isa García**.
+
+Una traducción del significado siempre se rotula como tal; nunca se presenta como el Corán.
+
+## Contacto
+
+- **Desarrollador**: KHASSINX LLC, una sociedad de responsabilidad limitada de Florida
+- **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Seguridad**: [security@khassinx.com](mailto:security@khassinx.com) ([política de disclosure](https://khassinx.com/es/security/))
+- **Privacidad**: [hello@khassinx.com](mailto:hello@khassinx.com)
