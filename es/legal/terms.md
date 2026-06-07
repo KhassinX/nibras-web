@@ -33,7 +33,7 @@ Nibras está pensada para la lectura reverente, el estudio y la reflexión. Acep
 Nibras presenta escritura de dominio público con procedencia transparente:
 
 - **Texto del Corán en árabe**: provisto por **[Tanzil.net](https://tanzil.net)** bajo la licencia **Creative Commons Atribución 3.0 (CC BY 3.0)**.
-- **Traducción del significado al español**: de **Isa García**.
+- **Traducción del significado al español**: de **Sheikh Muhammad Isa García**, vía **QuranEnc.com / IslamHouse**, usada conforme a los Terms and Policies de QuranEnc (verbatim, con atribución y versión).
 
 Las atribuciones completas se muestran en la app y en este sitio. Una traducción del significado siempre se rotula como tal y nunca se presenta como el Corán.
 

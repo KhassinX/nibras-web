@@ -35,7 +35,7 @@ Nibras is intended for reverent reading, study, and reflection. You agree not to
 Nibras presents public-domain scripture with transparent provenance:
 
 - **Arabic Qur'an text**: provided by **[Tanzil.net](https://tanzil.net)** under the **Creative Commons Attribution 3.0 (CC BY 3.0)** licence.
-- **Spanish translation of the meaning**: by **Isa García**.
+- **Spanish translation of the meaning**: by **Sheikh Muhammad Isa García**, via **QuranEnc.com / IslamHouse**, used under QuranEnc's published Terms and Policies (verbatim, with attribution and version).
 
 Full attributions are shown in the app and on this site. A translation of the meaning is always labelled as such and is never presented as the Qur'an.
 
