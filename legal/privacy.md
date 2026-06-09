@@ -5,7 +5,7 @@ permalink: /legal/privacy/
 lang: en
 canonical_en: /legal/privacy/
 canonical_es: /es/legal/privacy/
-updated: 2026-06-05
+updated: 2026-06-09
 redirect_from:
   - /privacy/
 ---
@@ -38,6 +38,10 @@ The app is safe for all ages. Because we collect no data at all, there is nothin
 
 If this policy changes, we will update this page and the "Last updated" date. Material changes will be reflected in the App Store listing.
 
+## Your rights
+
+Depending on where you live, you may have rights over your personal data — to access it, correct it, delete it, or take it elsewhere. Because Nibras collects no personal data, there is nothing for us to access, correct, or delete. Your rights and how to exercise them are explained in the KhassinX **[Rights Center](https://khassinx.com/legal/your-rights/)**, which covers the EU/EEA, the UK, Spain, California, other U.S. states, and the rest of the world.
+
 ## Contact
 
-Questions about privacy: **hello@khassinx.com**
+Questions about privacy: **[legal@khassinx.com](mailto:legal@khassinx.com)**

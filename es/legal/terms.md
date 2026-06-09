@@ -5,14 +5,14 @@ permalink: /es/legal/terms/
 lang: es
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Términos de uso
 
 Estos son los términos para usar **Nibras**, un lector del Corán para plataformas Apple desarrollado por **KhassinX** (KHASSINX LLC, una sociedad de responsabilidad limitada de Florida).
 
-Al instalar o usar Nibras, aceptás estos términos. Si no estás de acuerdo, no uses la app.
+Al instalar o usar Nibras, aceptas estos términos. Si no estás de acuerdo, no uses la app.
 
 ## La app
 
@@ -26,14 +26,14 @@ La app se provee **"tal como está"**, sin garantías de ningún tipo, expresas 
 
 ## Reverencia y uso
 
-Nibras está pensada para la lectura reverente, el estudio y la reflexión. Aceptás no usarla para ningún fin ilegal, y no hacer reverse-engineering, decompilar ni desensamblar la app salvo que la ley aplicable lo permita expresamente.
+Nibras está pensada para la lectura reverente, el estudio y la reflexión. Aceptas no usarla para ningún fin ilegal, y no hacer reverse-engineering, decompilar ni desensamblar la app salvo que la ley aplicable lo permita expresamente.
 
 ## Atribución y fuentes
 
-Nibras presenta escritura de dominio público con procedencia transparente:
+Nibras presenta escritura con procedencia transparente:
 
-- **Texto del Corán en árabe**: provisto por **[Tanzil.net](https://tanzil.net)** bajo la licencia **Creative Commons Atribución 3.0 (CC BY 3.0)**.
-- **Traducción del significado al español**: de **Sheikh Muhammad Isa García**, vía **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)**, usada conforme a los Terms and Policies de QuranEnc (verbatim, con atribución y versión).
+- **Texto del Corán en árabe**: Tanzil Project (**[tanzil.net](https://tanzil.net)**). Copyright © Tanzil Project. Licenciado bajo la licencia **[Creative Commons Atribución 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)**. Reproducido verbatim, sin modificaciones.
+- **Traducción del significado al español**: de **Sheikh Muhammad Isa García**, vía **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)**, usada conforme a los Terms and Policies de QuranEnc (verbatim, con atribución).
 
 Las atribuciones completas se muestran en la app y en este sitio. Una traducción del significado siempre se rotula como tal y nunca se presenta como el Corán.
 
@@ -48,4 +48,5 @@ Si cambiamos estos términos, la nueva versión reemplaza a la anterior en esta 
 ## Contacto
 
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Legal y copyright**: [legal@khassinx.com](mailto:legal@khassinx.com)
 - **Desarrollador**: KHASSINX LLC, una sociedad de responsabilidad limitada de Florida

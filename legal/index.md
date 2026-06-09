@@ -5,7 +5,7 @@ permalink: /legal/
 lang: en
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Legal
@@ -22,9 +22,9 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
 ## Attribution
 
-Nibras presents public-domain scripture with transparent provenance:
+Nibras presents scripture with transparent provenance:
 
-- **Arabic Qur'an text** — provided by **[Tanzil.net](https://tanzil.net)** under **CC BY 3.0**.
+- **Arabic Qur'an text** — Tanzil Project (**[tanzil.net](https://tanzil.net)**). Copyright © Tanzil Project. Licensed under **[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)**. Reproduced verbatim, without modification.
 - **Spanish translation of the meaning** — by **Sheikh Muhammad Isa García**, via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Qur'an Encyclopedia, King Fahd Glorious Qur'an Printing Complex), used under QuranEnc's published Terms and Policies.
 
 A translation of the meaning is always labelled as such; it is never presented as the Qur'an.
@@ -34,4 +34,4 @@ A translation of the meaning is always labelled as such; it is never presented a
 - **Developer**: KHASSINX LLC, a Florida limited liability company
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
 - **Security**: [security@khassinx.com](mailto:security@khassinx.com) ([disclosure policy](https://khassinx.com/security/))
-- **Privacy concerns**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Privacy concerns**: [legal@khassinx.com](mailto:legal@khassinx.com)
