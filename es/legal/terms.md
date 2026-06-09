@@ -5,14 +5,14 @@ permalink: /es/legal/terms/
 lang: es
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Términos de uso
 
 Estos son los términos para usar **Nibras**, un lector del Corán para plataformas Apple desarrollado por **KhassinX** (KHASSINX LLC, una sociedad de responsabilidad limitada de Florida).
 
-Al instalar o usar Nibras, aceptás estos términos. Si no estás de acuerdo, no uses la app.
+Al instalar o usar Nibras, aceptas estos términos. Si no estás de acuerdo, no uses la app.
 
 ## La app
 
@@ -26,7 +26,7 @@ La app se provee **"tal como está"**, sin garantías de ningún tipo, expresas 
 
 ## Reverencia y uso
 
-Nibras está pensada para la lectura reverente, el estudio y la reflexión. Aceptás no usarla para ningún fin ilegal, y no hacer reverse-engineering, decompilar ni desensamblar la app salvo que la ley aplicable lo permita expresamente.
+Nibras está pensada para la lectura reverente, el estudio y la reflexión. Aceptas no usarla para ningún fin ilegal, y no hacer reverse-engineering, decompilar ni desensamblar la app salvo que la ley aplicable lo permita expresamente.
 
 ## Atribución y fuentes
 
@@ -48,4 +48,5 @@ Si cambiamos estos términos, la nueva versión reemplaza a la anterior en esta 
 ## Contacto
 
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Legal y copyright**: [legal@khassinx.com](mailto:legal@khassinx.com)
 - **Desarrollador**: KHASSINX LLC, una sociedad de responsabilidad limitada de Florida

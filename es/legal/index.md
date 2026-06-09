@@ -5,7 +5,7 @@ permalink: /es/legal/
 lang: es
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Legal
@@ -32,4 +32,4 @@ Una traducción del significado siempre se rotula como tal; nunca se presenta co
 - **Desarrollador**: KHASSINX LLC, una sociedad de responsabilidad limitada de Florida
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
 - **Seguridad**: [security@khassinx.com](mailto:security@khassinx.com) ([política de disclosure](https://khassinx.com/es/security/))
-- **Privacidad**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Privacidad**: [legal@khassinx.com](mailto:legal@khassinx.com)

@@ -5,7 +5,7 @@ permalink: /legal/
 lang: en
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Legal
@@ -34,4 +34,4 @@ A translation of the meaning is always labelled as such; it is never presented a
 - **Developer**: KHASSINX LLC, a Florida limited liability company
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
 - **Security**: [security@khassinx.com](mailto:security@khassinx.com) ([disclosure policy](https://khassinx.com/security/))
-- **Privacy concerns**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Privacy concerns**: [legal@khassinx.com](mailto:legal@khassinx.com)
