@@ -32,10 +32,10 @@ Nibras is intended for reverent reading, study, and reflection. You agree not to
 
 ## Attribution and sources
 
-Nibras presents public-domain scripture with transparent provenance:
+Nibras presents scripture with transparent provenance:
 
-- **Arabic Qur'an text**: provided by **[Tanzil.net](https://tanzil.net)** under the **Creative Commons Attribution 3.0 (CC BY 3.0)** licence.
-- **Spanish translation of the meaning**: by **Sheikh Muhammad Isa García**, via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)**, used under QuranEnc's published Terms and Policies (verbatim, with attribution and version).
+- **Arabic Qur'an text**: Tanzil Project (**[tanzil.net](https://tanzil.net)**). Copyright © Tanzil Project. Licensed under the **[Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)** licence. Reproduced verbatim, without modification.
+- **Spanish translation of the meaning**: by **Sheikh Muhammad Isa García**, via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)**, used under QuranEnc's published Terms and Policies (verbatim, with attribution).
 
 Full attributions are shown in the app and on this site. A translation of the meaning is always labelled as such and is never presented as the Qur'an.
 
