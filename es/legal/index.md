@@ -5,7 +5,7 @@ permalink: /es/legal/
 lang: es
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-06-05
+updated: 2026-06-09
 ---
 
 # Legal
@@ -20,9 +20,9 @@ Documentos legales públicos de **Nibras**.
 
 ## Atribución
 
-Nibras presenta escritura de dominio público con procedencia transparente:
+Nibras presenta escritura con procedencia transparente:
 
-- **Texto del Corán en árabe** — provisto por **[Tanzil.net](https://tanzil.net)** bajo **CC BY 3.0**.
+- **Texto del Corán en árabe** — Tanzil Project (**[tanzil.net](https://tanzil.net)**). Copyright © Tanzil Project. Licenciado bajo **[Creative Commons Atribución 3.0](https://creativecommons.org/licenses/by/3.0/)**. Reproducido verbatim, sin modificaciones.
 - **Traducción del significado al español** — de **Sheikh Muhammad Isa García**, vía **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Quran Encyclopedia, King Fahd Glorious Qur'an Printing Complex), usada conforme a los Terms and Policies de QuranEnc.
 
 Una traducción del significado siempre se rotula como tal; nunca se presenta como el Corán.
@@ -32,4 +32,4 @@ Una traducción del significado siempre se rotula como tal; nunca se presenta co
 - **Desarrollador**: KHASSINX LLC, una sociedad de responsabilidad limitada de Florida
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
 - **Seguridad**: [security@khassinx.com](mailto:security@khassinx.com) ([política de disclosure](https://khassinx.com/es/security/))
-- **Privacidad**: [hello@khassinx.com](mailto:hello@khassinx.com)
+- **Privacidad**: [legal@khassinx.com](mailto:legal@khassinx.com)
