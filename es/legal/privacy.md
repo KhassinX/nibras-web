@@ -5,14 +5,15 @@ permalink: /es/legal/privacy/
 lang: es
 canonical_en: /legal/privacy/
 canonical_es: /es/legal/privacy/
-updated: 2026-06-09
+updated: 2026-07-02
 ---
 
 # Política de Privacidad de Nibras
 
+**Última actualización:** 2 de julio de 2026
 **Responsable:** KHASSINX LLC
 
-Nibras es una app para leer escritura sagrada — el Corán. Está hecha privacy-first: **no recolectamos ninguno de tus datos, y nada de lo que hacés en la app se nos envía.** No tenemos servidores ni analítica.
+Nibras es una app para leer escritura sagrada — el Corán. Está hecha privacy-first: **no recolectamos ninguno de tus datos, y nada de lo que haces en la app se nos envía.** No tenemos servidores ni analítica.
 
 ## Datos que recolectamos
 
@@ -21,12 +22,20 @@ Nibras es una app para leer escritura sagrada — el Corán. Está hecha privacy
 ## Cómo funciona la app en tu dispositivo
 
 - **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado y el índice de búsqueda vienen incluidos en la app (ediciones de dominio público). Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
-- **La búsqueda semántica on-device** usa `NLContextualEmbedding` de Apple, un modelo que corre localmente en tu dispositivo. La primera vez que se usa, el sistema operativo puede descargar el modelo desde los servidores de Apple (Apple → tu dispositivo). Esa transferencia no contiene datos personales ni información sobre lo que leés o buscás.
+- **La búsqueda semántica on-device** usa `NLContextualEmbedding` de Apple, un modelo que corre localmente en tu dispositivo. La primera vez que se usa, el sistema operativo puede descargar el modelo desde los servidores de Apple (Apple → tu dispositivo). Esa transferencia no contiene datos personales ni información sobre lo que lees o buscas.
 - **Sin IA de terceros.** La app nunca envía tus consultas, tu lectura ni el texto sagrado a ningún proveedor de IA externo ni a ningún servicio de terceros.
 
 ## Tus datos e iCloud
 
-La versión actual mantiene todo en tu dispositivo y **no sincroniza tus datos a ningún lado.** Si una versión futura agrega sincronización por iCloud, tus propios datos (marcadores, notas, posición de lectura) se sincronizarían entre tus dispositivos a través de **tu propia cuenta de iCloud**, bajo los términos de privacidad de Apple — nosotros nunca tendríamos acceso, y el texto sagrado nunca se sincronizaría.
+Tus propios datos — posición de lectura, marcadores, resaltados y notas — se guardan en tu dispositivo y se sincronizan entre tus dispositivos a través de **tu propia cuenta de iCloud** (iCloud Key-Value Store y una base de datos privada de CloudKit), bajo los términos de privacidad de Apple. Nunca tenemos acceso: viven en tu iCloud personal, no en un servidor nuestro. El texto sagrado nunca se sincroniza — cada dispositivo ya trae el texto completo. Si no has iniciado sesión en iCloud, todo sigue funcionando localmente en tu dispositivo. Para eliminar datos sincronizados, borra marcadores, resaltados o notas en la app (los borrados se propagan a tus otros dispositivos), o gestiona el almacenamiento de iCloud en Ajustes.
+
+### Propinas
+
+Las apps son gratuitas. Un frasco de propinas opcional te permite apoyar el proyecto a través del sistema de compras integradas de Apple. El pago lo procesa Apple por completo; no recibimos ninguna información personal tuya.
+
+### Diagnósticos
+
+Mediante los diagnósticos estándar on-device de Apple (MetricKit), la app puede recibir del sistema reportes anónimos de rendimiento, como tiempo de arranque o diagnósticos de fallos. Esos reportes se guardan solo en tu dispositivo y nunca se nos transmiten.
 
 ## Niños
 

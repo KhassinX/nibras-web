@@ -5,13 +5,14 @@ permalink: /legal/privacy/
 lang: en
 canonical_en: /legal/privacy/
 canonical_es: /es/legal/privacy/
-updated: 2026-06-09
+updated: 2026-07-02
 redirect_from:
   - /privacy/
 ---
 
 # Nibras Privacy Policy
 
+**Last updated:** July 2, 2026
 **Provided by:** KHASSINX LLC
 
 Nibras is a reading app for sacred scripture — the Qur'an. It is built privacy-first: **we do not collect any of your data, and nothing you do in the app is ever sent to us.** We have no servers and no analytics.
@@ -28,7 +29,15 @@ Nibras is a reading app for sacred scripture — the Qur'an. It is built privacy
 
 ## Your data and iCloud
 
-The current version keeps everything on your device and **does not sync your data anywhere.** If a future version adds iCloud sync, your own data (bookmarks, notes, reading position) would sync across your devices through **your own iCloud account**, under Apple's privacy terms — we would never have access to it, and scripture text would never be synced.
+Your own data — reading position, bookmarks, highlights, and notes — is stored on your device and syncs across your devices through **your own iCloud account** (Apple's iCloud Key-Value Store and a private CloudKit database), under Apple's privacy terms. We never have access to it: it lives in your personal iCloud, not on any server of ours. Scripture text itself is never synced — every device already carries the full text. If you are not signed in to iCloud, everything still works and stays local to your device. To remove synced data, delete bookmarks, highlights, or notes in the app (deletions propagate to your other devices), or manage iCloud storage in Settings.
+
+### Tips
+
+The apps are free. An optional tip jar lets you support the project through Apple's in-app purchase system. Payment is processed entirely by Apple; we receive no personal information about you.
+
+### Diagnostics
+
+Using Apple's standard on-device diagnostics (MetricKit), the app can receive anonymous performance reports from the system, such as launch time or crash diagnostics. These reports are stored only on your device and are never transmitted to us.
 
 ## Children
 
