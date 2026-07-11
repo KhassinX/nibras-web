@@ -18,7 +18,7 @@ By installing or using Nibras, you agree to these terms. If you do not agree, do
 
 ## The app
 
-Nibras presents the Qur'an: the Arabic text and a translation of its meaning, with an on-device, non-generative concordance that surfaces connections within the text. **The translation is a translation of the meaning; it is never the Qur'an itself.** Nibras does not interpret, paraphrase, or generate scripture. It is distributed exclusively through the Apple App Store, where Apple's standard Licensed Application End User License Agreement also applies.
+Nibras presents the Qur'an: the Arabic text and a translation of its meaning, with an on-device, non-generative concordance that surfaces connections within the text. **The translation is a translation of the meaning; it is never the Qur'an itself.** Nibras does not interpret, paraphrase, or generate scripture. It is distributed exclusively through the App Store, where Apple's standard Licensed Application End User License Agreement also applies.
 
 ## Pro bono, free, "as is"
 
