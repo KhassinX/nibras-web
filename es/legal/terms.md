@@ -16,7 +16,7 @@ Al instalar o usar Nibras, aceptas estos términos. Si no estás de acuerdo, no 
 
 ## La app
 
-Nibras presenta el Corán: el texto en árabe y una traducción de su significado, con una concordancia on-device no generativa que encuentra conexiones dentro del texto. **La traducción es una traducción del significado; nunca es el Corán en sí.** Nibras no interpreta, no parafrasea ni genera escritura. Se distribuye exclusivamente a través de la Apple App Store, donde también aplica el acuerdo estándar de licencia de Apple para usuario final.
+Nibras presenta el Corán: el texto en árabe y una traducción de su significado, con una concordancia on-device no generativa que encuentra conexiones dentro del texto. **La traducción es una traducción del significado; nunca es el Corán en sí.** Nibras no interpreta, no parafrasea ni genera escritura. Se distribuye exclusivamente a través de la App Store, donde también aplica el acuerdo estándar de licencia de Apple para usuario final.
 
 ## Pro bono, gratis, "tal como está"
 
