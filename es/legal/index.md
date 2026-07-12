@@ -5,7 +5,7 @@ permalink: /es/legal/
 lang: es
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-06-09
+updated: 2026-07-11
 ---
 
 # Legal
@@ -33,3 +33,7 @@ Una traducción del significado siempre se rotula como tal; nunca se presenta co
 - **General**: [hello@khassinx.com](mailto:hello@khassinx.com)
 - **Seguridad**: [security@khassinx.com](mailto:security@khassinx.com) ([política de disclosure](https://khassinx.com/es/security/))
 - **Privacidad**: [legal@khassinx.com](mailto:legal@khassinx.com)
+
+## Marcas comerciales
+
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Liquid Glass es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KhassinX y Nibras son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.
