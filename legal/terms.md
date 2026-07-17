@@ -35,7 +35,9 @@ Nibras is intended for reverent reading, study, and reflection. You agree not to
 Nibras presents scripture with transparent provenance:
 
 - **Arabic Qur'an text**: Tanzil Project (**[tanzil.net](https://tanzil.net)**). Copyright © Tanzil Project. Licensed under the **[Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)** licence. Reproduced verbatim, without modification.
-- **Spanish translation of the meaning**: by **Sheikh Muhammad Isa García**, via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)**, used under QuranEnc's published Terms and Policies (verbatim, with attribution).
+- **English translation of the meaning**: by the **Rowwad Translation Center** (v1.0.19), via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)**, used under QuranEnc's published Terms and Policies (verbatim, with attribution).
+- **English translation of the meaning (classic)**: *The Meaning of the Glorious Koran*, Marmaduke Pickthall, 1930. Public domain.
+- **Spanish translation of the meaning**: by **Sheikh Muhammad Isa García** (v1.0.2), via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)**, used under QuranEnc's published Terms and Policies (verbatim, with attribution).
 
 Full attributions are shown in the app and on this site. A translation of the meaning is always labelled as such and is never presented as the Qur'an.
 
