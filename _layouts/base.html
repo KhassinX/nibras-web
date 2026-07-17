@@ -26,7 +26,7 @@
   {%- endif -%}
   <meta property="og:locale" content="{{ og_locale }}">
   {%- if page.lang == 'es' %}<meta property="og:locale:alternate" content="en_US">{%- else %}<meta property="og:locale:alternate" content="es_ES">{%- endif %}
-  {% if site.og_image %}<meta property="og:image" content="{{ site.url }}{{ og_img }}">
+  {% if og_img %}<meta property="og:image" content="{{ site.url }}{{ og_img }}">
   <meta property="og:image:secure_url" content="{{ site.url }}{{ og_img }}">
   <meta property="og:image:type" content="image/png">
   <meta property="og:image:width" content="{{ site.og_image_width | default: 1200 }}">
@@ -34,10 +34,11 @@
   <meta property="og:image:alt" content="{{ og_img_alt }}">{% endif %}
 
   {%- comment -%} Twitter / X Cards {%- endcomment -%}
-  <meta name="twitter:card" content="{{ site.twitter_card | default: 'summary_large_image' }}">
+  {%- comment -%} Sin imagen la card DEBE degradar a summary — declarar summary_large_image sin twitter:image deja la share vacia (WEB_PROPERTY_SPEC §4.5). {%- endcomment -%}
+  <meta name="twitter:card" content="{% if og_img %}{{ site.twitter_card | default: 'summary_large_image' }}{% else %}summary{% endif %}">
   <meta name="twitter:title" content="{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{{ page.description | default: site.description }}">
-  {% if site.og_image %}<meta name="twitter:image" content="{{ site.url }}{{ og_img }}">
+  {% if og_img %}<meta name="twitter:image" content="{{ site.url }}{{ og_img }}">
   <meta name="twitter:image:alt" content="{{ og_img_alt }}">{% endif %}
 
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
