@@ -5,7 +5,7 @@ permalink: /es/legal/
 lang: es
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-07-11
+updated: 2026-07-18
 ---
 
 # Legal
@@ -15,6 +15,7 @@ Documentos legales públicos de **Nibras**.
 - **[Política de Privacidad](/es/legal/privacy/)** — qué datos maneja Nibras y cómo (spoiler: ninguno nuestro)
 - **[Términos de uso](/es/legal/terms/)** — términos para usar la app
 - **[Seguridad y reportes responsables](/es/security/)** — cómo reportar vulnerabilidades
+- **[Contenido y derechos](/es/legal/content/)** — solicitar el retiro o la revisión de contenido, o aportar una traducción del significado
 
 ---
 
