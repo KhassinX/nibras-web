@@ -29,7 +29,7 @@ Nibras is a reading app for sacred scripture — the Qur'an. It is built privacy
 
 ## Your data and iCloud
 
-Your own data — reading position, bookmarks, highlights, and notes — is stored on your device and syncs across your devices through **your own iCloud account** (Apple's iCloud Key-Value Store and a private CloudKit database), under Apple's privacy terms. We never have access to it: it lives in your personal iCloud, not on any server of ours. Scripture text itself is never synced — every device already carries the full text. If you are not signed in to iCloud, everything still works and stays local to your device. To remove synced data, delete bookmarks, highlights, or notes in the app (deletions propagate to your other devices), or manage iCloud storage in Settings.
+Your own data — reading position, bookmarks, highlights, and notes — is stored on your device and syncs across your devices through **your own iCloud account** (Apple's iCloud Key-Value Store and a private CloudKit database), under Apple's privacy terms. We never have access to it: it lives in your personal iCloud, not on any server of ours. Scripture text itself is never synced — every device already carries the full text. If you are not signed in to iCloud, everything still works and stays local to your device. To remove synced data, delete bookmarks, highlights, or notes in the app (deletions propagate to your other devices), or manage iCloud storage in Settings. You can also erase everything at once: open Settings in the app and choose "Delete all my saved data." This removes your bookmarks, highlights, and notes from this device and from your iCloud.
 
 ### Tips
 
