@@ -27,7 +27,7 @@ Nibras es una app para leer escritura sagrada — el Corán. Está hecha privacy
 
 ## Tus datos e iCloud
 
-Tus propios datos — posición de lectura, marcadores, resaltados y notas — se guardan en tu dispositivo y se sincronizan entre tus dispositivos a través de **tu propia cuenta de iCloud** (iCloud Key-Value Store y una base de datos privada de CloudKit), bajo los términos de privacidad de Apple. Nunca tenemos acceso: viven en tu iCloud personal, no en un servidor nuestro. El texto sagrado nunca se sincroniza — cada dispositivo ya trae el texto completo. Si no has iniciado sesión en iCloud, todo sigue funcionando localmente en tu dispositivo. Para eliminar datos sincronizados, borra marcadores, resaltados o notas en la app (los borrados se propagan a tus otros dispositivos), o gestiona el almacenamiento de iCloud en Ajustes.
+Tus propios datos — posición de lectura, marcadores, resaltados y notas — se guardan en tu dispositivo y se sincronizan entre tus dispositivos a través de **tu propia cuenta de iCloud** (iCloud Key-Value Store y una base de datos privada de CloudKit), bajo los términos de privacidad de Apple. Nunca tenemos acceso: viven en tu iCloud personal, no en un servidor nuestro. El texto sagrado nunca se sincroniza — cada dispositivo ya trae el texto completo. Si no has iniciado sesión en iCloud, todo sigue funcionando localmente en tu dispositivo. Para eliminar datos sincronizados, borra marcadores, resaltados o notas en la app (los borrados se propagan a tus otros dispositivos), o gestiona el almacenamiento de iCloud en Ajustes. También puedes borrarlo todo de una vez: abre Ajustes en la app y elige «Borrar todos mis datos guardados». Esto elimina tus marcadores, resaltados y notas de este dispositivo y de tu iCloud.
 
 ### Propinas
 
