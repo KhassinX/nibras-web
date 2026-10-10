@@ -41,4 +41,4 @@ A translation of the meaning is always labelled as such; it is never presented a
 
 ## Trademarks
 
-Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS, and watchOS are trademarks of Apple Inc., registered in the U.S. and other countries. Liquid Glass is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KHASSINX and Nibras are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.
+Apple, iPhone, iPad, App Store, iCloud, CloudKit, and iPadOS are trademarks of Apple Inc., registered in the U.S. and other countries. Liquid Glass is a trademark of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. KHASSINX and Nibras are trademarks of KHASSINX LLC. All other trademarks are the property of their respective owners.
