@@ -39,4 +39,4 @@ Una traducción del significado siempre se rotula como tal; nunca se presenta co
 
 ## Marcas comerciales
 
-Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Liquid Glass es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KhassinX y Nibras son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.
+Apple, iPhone, iPad, Mac, Apple Watch, App Store, iCloud, CloudKit, iPadOS, macOS y watchOS son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. Liquid Glass es una marca comercial de Apple Inc. IOS es una marca comercial o marca registrada de Cisco en EE. UU. y otros países y se utiliza bajo licencia. KHASSINX y Nibras son marcas comerciales de KHASSINX LLC. Las demás marcas comerciales pertenecen a sus respectivos propietarios.

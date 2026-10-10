@@ -10,7 +10,7 @@ updated: 2026-07-11
 
 # Términos de uso
 
-Estos son los términos para usar **Nibras**, un lector del Corán para plataformas Apple desarrollado por **KhassinX** (KHASSINX LLC, una sociedad de responsabilidad limitada de Florida).
+Estos son los términos para usar **Nibras**, un lector del Corán para plataformas Apple desarrollado por **KHASSINX** (KHASSINX LLC, una sociedad de responsabilidad limitada de Florida).
 
 Al instalar o usar Nibras, aceptas estos términos. Si no estás de acuerdo, no uses la app.
 
