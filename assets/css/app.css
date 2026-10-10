@@ -27,6 +27,8 @@
 .section-lead { max-width: var(--khassinx-measure); }
 
 .cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 0 var(--khassinx-s-6); border-top: 1px solid var(--khassinx-rule); }
+/* Three cards stay one row of three from 40rem; below that, one column (never 2+1). */
+.cards-grid:has(> :last-child:nth-child(3)) { grid-template-columns: repeat(auto-fit, minmax(max(calc((100% - 2 * var(--khassinx-s-6)) / 3), min(100%, calc((40rem - 100%) * 999))), 1fr)); }
 .card { padding-block: var(--khassinx-s-5); border-bottom: 1px solid var(--khassinx-rule); }
 .card p { margin-top: var(--khassinx-s-2); color: var(--khassinx-ink-2); }
 
