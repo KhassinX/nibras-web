@@ -32,19 +32,7 @@ org:
   name: KHASSINX
   legal_name: KHASSINX LLC
 
-# Navigation — keyed per locale. base.html selects via page.lang con fallback a 'en'.
-nav:
-  en:
-    - title: Legal
-      url: /legal/
-    - title: Security
-      url: /security/
-  es:
-    - title: Legal
-      url: /es/legal/
-    - title: Seguridad
-      url: /es/security/
-
+# Navigation — keyed per locale. Sin nav: el encabezado es sólo el wordmark: cada destino ya está en el pie.
 footer_nav:
   en:
     - title: Privacy
