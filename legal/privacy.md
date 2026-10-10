@@ -49,7 +49,7 @@ If this policy changes, we will update this page and the "Last updated" date. Ma
 
 ## Your rights
 
-Depending on where you live, you may have rights over your personal data — to access it, correct it, delete it, or take it elsewhere. Because Nibras collects no personal data, there is nothing for us to access, correct, or delete. Your rights and how to exercise them are explained in the KhassinX **[Rights Center](https://khassinx.com/legal/your-rights/)**, which covers the EU/EEA, the UK, Spain, California, other U.S. states, and the rest of the world.
+Depending on where you live, you may have rights over your personal data — to access it, correct it, delete it, or take it elsewhere. Because Nibras collects no personal data, there is nothing for us to access, correct, or delete. Your rights and how to exercise them are explained in the KHASSINX **[Rights Center](https://khassinx.com/legal/your-rights/)**, which covers the EU/EEA, the UK, Spain, California, other U.S. states, and the rest of the world.
 
 ## This website
 

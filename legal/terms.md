@@ -12,7 +12,7 @@ redirect_from:
 
 # Terms of Use
 
-These are the terms for using **Nibras**, a reader of the Qur'an for Apple platforms built by **KhassinX** (KHASSINX LLC, a Florida limited liability company).
+These are the terms for using **Nibras**, a reader of the Qur'an for Apple platforms built by **KHASSINX** (KHASSINX LLC, a Florida limited liability company).
 
 By installing or using Nibras, you agree to these terms. If you do not agree, do not use the app.
 

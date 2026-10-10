@@ -47,7 +47,7 @@ Si esta política cambia, actualizaremos esta página y la fecha de "Última act
 
 ## Tus derechos
 
-Según dónde vivas, puedes tener derechos sobre tus datos personales — acceder a ellos, corregirlos, eliminarlos o llevártelos a otro lugar. Como Nibras no recolecta ningún dato personal, no hay nada que podamos consultar, corregir ni eliminar. Tus derechos y cómo ejercerlos se explican en el **[Centro de Derechos](https://khassinx.com/legal/your-rights/)** de KhassinX, que cubre la UE/EEE, el Reino Unido, España, California, otros estados de EE. UU. y el resto del mundo.
+Según dónde vivas, puedes tener derechos sobre tus datos personales — acceder a ellos, corregirlos, eliminarlos o llevártelos a otro lugar. Como Nibras no recolecta ningún dato personal, no hay nada que podamos consultar, corregir ni eliminar. Tus derechos y cómo ejercerlos se explican en el **[Centro de Derechos](https://khassinx.com/legal/your-rights/)** de KHASSINX, que cubre la UE/EEE, el Reino Unido, España, California, otros estados de EE. UU. y el resto del mundo.
 
 ## Este sitio web
 
