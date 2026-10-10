@@ -10,7 +10,6 @@ updated: 2026-07-11
 
 # Política de Privacidad de Nibras
 
-**Última actualización:** 2 de julio de 2026
 **Responsable:** KHASSINX LLC
 
 Nibras es una app para leer escritura sagrada — el Corán. Está hecha privacy-first: **no recolectamos ninguno de tus datos, y nada de lo que haces en la app se nos envía.** No tenemos servidores ni analítica.
@@ -22,7 +21,7 @@ Nibras es una app para leer escritura sagrada — el Corán. Está hecha privacy
 ## Cómo funciona la app en tu dispositivo
 
 - **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado y el índice de búsqueda vienen incluidos en la app (ediciones de dominio público). Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
-- **La búsqueda semántica on-device** usa `NLContextualEmbedding` de Apple, un modelo que corre localmente en tu dispositivo. La primera vez que se usa, el sistema operativo puede descargar el modelo desde los servidores de Apple (Apple → tu dispositivo). Esa transferencia no contiene datos personales ni información sobre lo que lees o buscas.
+- **La búsqueda semántica en el dispositivo** usa `NLContextualEmbedding` de Apple, un modelo que corre localmente en tu dispositivo. La primera vez que se usa, el sistema operativo puede descargar el modelo desde los servidores de Apple (Apple → tu dispositivo). Esa transferencia no contiene datos personales ni información sobre lo que lees o buscas.
 - **Sin IA de terceros.** La app nunca envía tus consultas, tu lectura ni el texto sagrado a ningún proveedor de IA externo ni a ningún servicio de terceros.
 
 ## Tus datos e iCloud
@@ -35,7 +34,7 @@ Las apps son gratuitas. Un frasco de propinas opcional te permite apoyar el proy
 
 ### Diagnósticos
 
-Mediante los diagnósticos estándar on-device de Apple (MetricKit), la app puede recibir del sistema reportes anónimos de rendimiento, como tiempo de arranque o diagnósticos de fallos. Esos reportes se guardan solo en tu dispositivo y nunca se nos transmiten.
+Mediante los diagnósticos estándar de Apple en el dispositivo (MetricKit), la app puede recibir del sistema reportes anónimos de rendimiento, como tiempo de arranque o diagnósticos de fallos. Esos reportes se guardan solo en tu dispositivo y nunca se nos transmiten.
 
 ## Niños
 

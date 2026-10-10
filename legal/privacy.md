@@ -12,7 +12,6 @@ redirect_from:
 
 # Nibras Privacy Policy
 
-**Last updated:** July 2, 2026
 **Provided by:** KHASSINX LLC
 
 Nibras is a reading app for sacred scripture — the Qur'an. It is built privacy-first: **we do not collect any of your data, and nothing you do in the app is ever sent to us.** We have no servers and no analytics.
