@@ -5,7 +5,7 @@ permalink: /es/legal/terms/
 lang: es
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-07-11
+updated: 2026-10-11
 ---
 
 # Términos de uso
@@ -20,7 +20,7 @@ Nibras presenta el Corán: el texto en árabe y una traducción de su significad
 
 ## Pro bono, gratis, "tal como está"
 
-Nibras se ofrece de forma gratuita, pro bono, sin publicidad y sin suscripción. Puede existir un tip-jar opcional para quienes quieran apoyar el trabajo; nunca es obligatorio.
+Nibras se ofrece de forma gratuita, pro bono, sin publicidad y sin suscripción.
 
 La app se provee **"tal como está"**, sin garantías de ningún tipo, expresas o implícitas, al máximo permitido por la ley aplicable. Al máximo permitido por la ley, KHASSINX LLC no se hace responsable por daños indirectos, incidentales, especiales, consecuentes o punitivos que surjan del uso de la app. Nada acá excluye responsabilidades que no puedan excluirse por ley.
 
