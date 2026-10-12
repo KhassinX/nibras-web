@@ -20,7 +20,7 @@ Nibras es una app para leer escritura sagrada — el Corán. Está hecha privacy
 
 ## Cómo funciona la app en tu dispositivo
 
-- **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado y el índice de búsqueda vienen incluidos en la app (ediciones de dominio público). Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
+- **La lectura y la búsqueda ocurren por completo en tu dispositivo.** El texto sagrado y el índice de búsqueda vienen incluidos en la app (ediciones de dominio público y con licencia). Tus preguntas, búsquedas, posición de lectura, marcadores y notas nunca salen de tu dispositivo hacia nosotros ni hacia un tercero.
 - **La búsqueda semántica en el dispositivo** usa `NLContextualEmbedding` de Apple, un modelo que corre localmente en tu dispositivo. La primera vez que se usa, el sistema operativo puede descargar el modelo desde los servidores de Apple (Apple → tu dispositivo). Esa transferencia no contiene datos personales ni información sobre lo que lees o buscas.
 - **Sin IA de terceros.** La app nunca envía tus consultas, tu lectura ni el texto sagrado a ningún proveedor de IA externo ni a ningún servicio de terceros.
 
