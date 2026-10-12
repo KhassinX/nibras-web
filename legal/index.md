@@ -5,7 +5,7 @@ permalink: /legal/
 lang: en
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-07-18
+updated: 2026-10-11
 ---
 
 # Legal
@@ -23,14 +23,23 @@ Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
 ## Attribution
 
-Nibras presents scripture with transparent provenance:
+### Required attribution
 
-- **Arabic Qur'an text** — Tanzil Project (**[tanzil.net](https://tanzil.net)**). Copyright © Tanzil Project. Licensed under **[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)**. Reproduced verbatim, without modification.
-- **English translation of the meaning** — by the **Rowwad Translation Center** (v1.0.19), via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Qur'an Encyclopedia, King Fahd Glorious Qur'an Printing Complex), used under QuranEnc's published Terms and Policies. Reproduced verbatim, without modification.
-- **English translation of the meaning (classic)** — *The Meaning of the Glorious Koran*, Marmaduke Pickthall, 1930. Public domain.
-- **Spanish translation of the meaning** — by **Sheikh Muhammad Isa García** (v1.0.2), via **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Qur'an Encyclopedia, King Fahd Glorious Qur'an Printing Complex), used under QuranEnc's published Terms and Policies. Reproduced verbatim, without modification.
+- **Arabic Qur'an text**: [Tanzil Project (tanzil.net)](https://tanzil.net). Copyright © Tanzil Project. Licensed under Creative Commons Attribution 3.0. Reproduced verbatim, without modification. [View License](https://creativecommons.org/licenses/by/3.0/)
+- **English translation of the meaning**: Rowwad Translation Center · QuranEnc (v1.0.19). Translation of the meaning: Rowwad Translation Center (v1.0.19). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
+- **Spanish translation of the meaning**: Muhammad Isa García · QuranEnc (v1.0.2). Translation of the meaning: Muhammad Isa García (v1.0.2). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
+- **Indonesian translation of the meaning**: Indonesian Ministry of Religious Affairs · QuranEnc (v1.0.1). Translation of the meaning: Indonesian Ministry of Religious Affairs (v1.0.1). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
+- **Turkish translation of the meaning**: Rowwad Translation Center · QuranEnc (v1.0.4). Translation of the meaning: Rowwad Translation Center (v1.0.4). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
+- **French translation of the meaning**: Rachid Maach · QuranEnc (v1.0.3). Translation of the meaning: Rachid Maach (v1.0.3). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
+- **Urdu translation of the meaning**: Muhammad Junagarhi · QuranEnc (v1.1.3). Translation of the meaning: Muhammad Junagarhi (v1.1.3). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
+- **English translation of the meaning (Saheeh International)**: Saheeh International · QuranEnc (v1.1.2). Translation of the meaning: Saheeh International (v1.1.2). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
+- **German translation of the meaning**: Frank Bubenheim (‘Abdullah as-Sāmit) and Nadim Elias · QuranEnc (v1.1.4). Translation of the meaning: Frank Bubenheim (‘Abdullah as-Sāmit) and Nadim Elias (v1.1.4). Publisher: QuranEnc.com / IslamHouse. Reproduced verbatim, without modification. [View License](https://quranenc.com)
 
-A translation of the meaning is always labelled as such; it is never presented as the Qur'an.
+### Sources
+
+- **Classic English translation of the meaning (Pickthall)**: Marmaduke Pickthall (1930)
+
+A translation of the meaning is never the Qur'an. The Arabic is the Qur'an.
 
 ## Contact
 

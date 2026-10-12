@@ -5,7 +5,7 @@ permalink: /es/legal/
 lang: es
 canonical_en: /legal/
 canonical_es: /es/legal/
-updated: 2026-07-18
+updated: 2026-10-11
 ---
 
 # Legal
@@ -21,14 +21,23 @@ Documentos legales públicos de **Nibras**.
 
 ## Atribución
 
-Nibras presenta escritura con procedencia transparente:
+### Atribución obligatoria
 
-- **Texto del Corán en árabe** — Tanzil Project (**[tanzil.net](https://tanzil.net)**). Copyright © Tanzil Project. Licenciado bajo **[Creative Commons Atribución 3.0](https://creativecommons.org/licenses/by/3.0/)**. Reproducido verbatim, sin modificaciones.
-- **Traducción del significado al inglés** — del **Rowwad Translation Center** (v1.0.19), vía **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Quran Encyclopedia, King Fahd Glorious Qur'an Printing Complex), usada conforme a los Terms and Policies de QuranEnc. Reproducida verbatim, sin modificaciones.
-- **Traducción del significado al inglés (clásica)** — *The Meaning of the Glorious Koran*, Marmaduke Pickthall, 1930. Dominio público.
-- **Traducción del significado al español** — de **Sheikh Muhammad Isa García** (v1.0.2), vía **[QuranEnc.com](https://quranenc.com) / [IslamHouse](https://islamhouse.com)** (Noble Quran Encyclopedia, King Fahd Glorious Qur'an Printing Complex), usada conforme a los Terms and Policies de QuranEnc. Reproducida verbatim, sin modificaciones.
+- **Texto del Corán en árabe**: [Tanzil Project (tanzil.net)](https://tanzil.net). Copyright © Tanzil Project. Licenciado bajo Creative Commons Attribution 3.0. Reproducido verbatim, sin modificaciones. [Ver licencia](https://creativecommons.org/licenses/by/3.0/)
+- **Traducción del significado al inglés**: Rowwad Translation Center · QuranEnc (v1.0.19). Traducción del significado: Rowwad Translation Center (v1.0.19). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
+- **Traducción del significado al español**: Muhammad Isa García · QuranEnc (v1.0.2). Traducción del significado: Muhammad Isa García (v1.0.2). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
+- **Traducción del significado al indonesio**: Indonesian Ministry of Religious Affairs · QuranEnc (v1.0.1). Traducción del significado: Indonesian Ministry of Religious Affairs (v1.0.1). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
+- **Traducción del significado al turco**: Rowwad Translation Center · QuranEnc (v1.0.4). Traducción del significado: Rowwad Translation Center (v1.0.4). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
+- **Traducción del significado al francés**: Rachid Maach · QuranEnc (v1.0.3). Traducción del significado: Rachid Maach (v1.0.3). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
+- **Traducción del significado al urdu**: Muhammad Junagarhi · QuranEnc (v1.1.3). Traducción del significado: Muhammad Junagarhi (v1.1.3). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
+- **Traducción del significado al inglés (Saheeh International)**: Saheeh International · QuranEnc (v1.1.2). Traducción del significado: Saheeh International (v1.1.2). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
+- **Traducción del significado al alemán**: Frank Bubenheim (‘Abdullah as-Sāmit) and Nadim Elias · QuranEnc (v1.1.4). Traducción del significado: Frank Bubenheim (‘Abdullah as-Sāmit) and Nadim Elias (v1.1.4). Editor: QuranEnc.com / IslamHouse. Reproducida verbatim, sin modificaciones. [Ver licencia](https://quranenc.com)
 
-Una traducción del significado siempre se rotula como tal; nunca se presenta como el Corán.
+### Fuentes
+
+- **Traducción clásica del significado al inglés (Pickthall)**: Marmaduke Pickthall (1930)
+
+La traducción del significado nunca es el Corán. El árabe es el Corán.
 
 ## Contacto
 
