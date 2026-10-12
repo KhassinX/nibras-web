@@ -1,6 +1,6 @@
 ---
 layout: prose
-title: Nibras — Contenido y derechos
+title: Contenido y derechos
 permalink: /es/legal/content/
 lang: es
 canonical_en: /legal/content/

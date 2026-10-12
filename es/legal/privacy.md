@@ -1,6 +1,6 @@
 ---
 layout: prose
-title: Nibras — Política de Privacidad
+title: Política de privacidad
 permalink: /es/legal/privacy/
 lang: es
 canonical_en: /legal/privacy/
