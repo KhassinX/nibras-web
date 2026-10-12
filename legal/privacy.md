@@ -22,7 +22,7 @@ Nibras is a reading app for sacred scripture — the Qur'an. It is built privacy
 
 ## How the app works on your device
 
-- **Reading and search happen entirely on your device.** The scripture text and the search index are bundled in the app (public-domain and licensed editions). Your questions, searches, reading position, bookmarks, and notes never leave your device to reach us or any third party.
+- **Reading and search happen entirely on your device.** The scripture text comes bundled in the app (public-domain and licensed editions). The search indexes are built on your device the first time you search; what is saved holds verse references and relevance vectors, never scripture text. Your questions, searches, reading position, bookmarks, and notes never leave your device to reach us or any third party.
 - **On-device semantic search** uses Apple's `NLContextualEmbedding`, a model that runs locally on your device. The first time it is used, the operating system may download the model from Apple's servers (Apple → your device). This transfer contains no personal data and no information about what you read or search.
 - **No third-party AI.** The app never sends your queries, your reading, or the scripture text to any third-party AI provider or external service.
 
