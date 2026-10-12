@@ -1,6 +1,6 @@
 ---
 layout: prose
-title: Nibras — Legal
+title: Legal
 permalink: /legal/
 lang: en
 canonical_en: /legal/
@@ -12,10 +12,10 @@ updated: 2026-07-18
 
 Public legal documents for **Nibras**.
 
-- **[Privacy Policy](/legal/privacy/)** — what data Nibras handles and how (spoiler: none collected by us)
-- **[Terms of Use](/legal/terms/)** — terms of using the app
-- **[Security & Responsible Disclosure](/security/)** — how to report vulnerabilities
-- **[Content & Rights](/legal/content/)** — request removal or review of content, or contribute a translation of the meaning
+- **[Privacy Policy](/legal/privacy/)**: what data Nibras handles and how (spoiler: none collected by us)
+- **[Terms of Use](/legal/terms/)**: terms of using the app
+- **[Security & Responsible Disclosure](/security/)**: how to report vulnerabilities
+- **[Content & Rights](/legal/content/)**: request removal or review of content, or contribute a translation of the meaning
 
 Short aliases: [/privacy/](/legal/privacy/) · [/terms/](/legal/terms/)
 
