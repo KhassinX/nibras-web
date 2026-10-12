@@ -5,7 +5,7 @@ permalink: /legal/terms/
 lang: en
 canonical_en: /legal/terms/
 canonical_es: /es/legal/terms/
-updated: 2026-07-11
+updated: 2026-10-11
 redirect_from:
   - /terms/
 ---
@@ -22,7 +22,7 @@ Nibras presents the Qur'an: the Arabic text and a translation of its meaning, wi
 
 ## Pro bono, free, "as is"
 
-Nibras is offered free of charge, pro bono, with no advertising and no subscription. An optional tip jar may be available for those who wish to support the work; it is never required.
+Nibras is offered free of charge, pro bono, with no advertising and no subscription.
 
 The app is provided **"as is"** without warranties of any kind, express or implied, to the maximum extent permitted by applicable law. To the maximum extent permitted by law, KHASSINX LLC is not liable for indirect, incidental, special, consequential, or punitive damages arising from your use of the app. Nothing here excludes liability that cannot be excluded by law.
 
